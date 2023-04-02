@@ -1,0 +1,706 @@
+{
+    "current_playlist": [],
+    "cardbox": [
+        {
+            "songsbox": "top charts",
+            "songscards": [
+                {
+                    "id": 0,
+                    "playlist_type": true,
+                    "playlist": [
+                        {
+                            "id": 0,
+                            "playlist_type": false,
+                            "playlist": null,
+                            "song_name": "paro",
+                            "album_name": "pyaar ka panchnaman 2",
+                            "singers": "",
+                            "image_source": "assests/images/song-1.jpg",
+                            "quality": {
+                                "low": "assests/songs/song-1.mp3",
+                                "medium": "",
+                                "high": ""
+                            },
+                            "release_date": "date"
+                        },
+                        {
+                            "id": 1,
+                            "playlist_type": false,
+                            "playlist": null,
+                            "song_name": "jiyo re bahubal",
+                            "album_name": "bahubali 2",
+                            "singers": "",
+                            "image_source": "assests/images/song-2.jpg",
+                            "quality": {
+                                "low": "assests/songs/song-2.mp3",
+                                "medium": "",
+                                "high": ""
+                            },
+                            "release_date": "date"
+                        },
+                        {
+                            "id": 2,
+                            "playlist_type": false,
+                            "playlist": null,
+                            "song_name": "hamsafar",
+                            "album_name": "badrinath ki dhulania",
+                            "singers": "",
+                            "image_source": "assests/images/song-3.jpg",
+                            "quality": {
+                                "low": "assests/songs/song-3.mp3",
+                                "medium": "",
+                                "high": ""
+                            },
+                            "release_date": "date"
+                        },
+                        {
+                            "id": 3,
+                            "playlist_type": false,
+                            "playlist": null,
+                            "song_name": "ik vaari aa",
+                            "album_name": "raabta",
+                            "singers": "",
+                            "image_source": "assests/images/song-4.jpg",
+                            "quality": {
+                                "low": "assests/songs/song-4.mp3",
+                                "medium": "",
+                                "high": ""
+                            },
+                            "release_date": "date"
+                        },
+                        {
+                            "id": 4,
+                            "playlist_type": false,
+                            "playlist": null,
+                            "song_name": "ladki kar gayi chull",
+                            "album_name": "kapoor and sons",
+                            "singers": "",
+                            "image_source": "assests/images/song-5.jpg",
+                            "quality": {
+                                "low": "assests/songs/song-5.mp3",
+                                "medium": "",
+                                "high": ""
+                            },
+                            "release_date": "date"
+                        }
+                    ],
+                    "song_name": "ganna top 50",
+                    "album_name": "",
+                    "singers": "",
+                    "image_source": "assests/images/song-1.jpg",
+                    "quality": {
+                        "low": "",
+                        "medium": "",
+                        "high": ""
+                    },
+                    "release_date": "date"
+                },
+                {
+                    "id": 1,
+                    "playlist_type": true,
+                    "playlist": [
+                        {
+                            "id": 0,
+                            "playlist_type": false,
+                            "playlist": null,
+                            "song_name": "paro",
+                            "album_name": "pyaar ka panchnaman 2",
+                            "singers": "",
+                            "image_source": "assests/images/song-1)jpg",
+                            "quality": {
+                                "low": "assests/songs/song-1.mp3",
+                                "medium": "",
+                                "high": ""
+                            },
+                            "release_date": "date"
+                        },
+                        {
+                            "id": 1,
+                            "playlist_type": false,
+                            "playlist": null,
+                            "song_name": "jiyo re bahubal",
+                            "album_name": "bahubali 2",
+                            "singers": "",
+                            "image_source": "assests/images/song-2.jpg",
+                            "quality": {
+                                "low": "assests/songs/song-2.mp3",
+                                "medium": "",
+                                "high": ""
+                            },
+                            "release_date": "date"
+                        },
+                        {
+                            "id": 2,
+                            "playlist_type": false,
+                            "playlist": null,
+                            "song_name": "hamsafar",
+                            "album_name": "badrinath ki dhulania",
+                            "singers": "",
+                            "image_source": "assests/images/song-3.jpg",
+                            "quality": {
+                                "low": "assests/songs/song-3.mp3",
+                                "medium": "",
+                                "high": ""
+                            },
+                            "release_date": "date"
+                        },
+                        {
+                            "id": 3,
+                            "playlist_type": false,
+                            "playlist": null,
+                            "song_name": "ik vaari aa",
+                            "album_name": "raabta",
+                            "singers": "",
+                            "image_source": "assests/images/song-4.jpg",
+                            "quality": {
+                                "low": "assests/songs/song-4.mp3",
+                                "medium": "",
+                                "high": ""
+                            },
+                            "release_date": "date"
+                        },
+                        {
+                            "id": 4,
+                            "playlist_type": false,
+                            "playlist": null,
+                            "song_name": "ladki kar gayi chull",
+                            "album_name": "kapoor and sons",
+                            "singers": "",
+                            "image_source": "assests/images/song-5.jpg",
+                            "quality": {
+                                "low": "assests/songs/song-5.mp3",
+                                "medium": "",
+                                "high": ""
+                            },
+                            "release_date": "date"
+                        }
+                        
+                    ],
+                    "song_name": "bollywood top 50",
+                    "album_name": "",
+                    "singers": "",
+                    "image_source": "assests/images/song-2.jpg",
+                    "quality": {
+                        "low": "",
+                        "medium": "",
+                        "high": ""
+                    },
+                    "release_date": "date"
+                },
+                {
+                    "id": 2,
+                    "playlist_type": true,
+                    "playlist": [
+                        {
+                            "id": 0,
+                            "playlist_type": false,
+                            "playlist": null,
+                            "song_name": "paro",
+                            "album_name": "pyaar ka panchnaman 2",
+                            "singers": "",
+                            "image_source": "assests/images/song-1)jpg",
+                            "quality": {
+                                "low": "assests/songs/song-1.mp3",
+                                "medium": "",
+                                "high": ""
+                            },
+                            "release_date": "date"
+                        },
+                        {
+                            "id": 1,
+                            "playlist_type": false,
+                            "playlist": null,
+                            "song_name": "jiyo re bahubal",
+                            "album_name": "bahubali 2",
+                            "singers": "",
+                            "image_source": "assests/images/song-2.jpg",
+                            "quality": {
+                                "low": "assests/songs/song-2.mp3",
+                                "medium": "",
+                                "high": ""
+                            },
+                            "release_date": "date"
+                        },
+                        {
+                            "id": 2,
+                            "playlist_type": false,
+                            "playlist": null,
+                            "song_name": "hamsafar",
+                            "album_name": "badrinath ki dhulania",
+                            "singers": "",
+                            "image_source": "assests/images/song-3.jpg",
+                            "quality": {
+                                "low": "assests/songs/song-3.mp3",
+                                "medium": "",
+                                "high": ""
+                            },
+                            "release_date": "date"
+                        },
+                        {
+                            "id": 3,
+                            "playlist_type": false,
+                            "playlist": null,
+                            "song_name": "ik vaari aa",
+                            "album_name": "raabta",
+                            "singers": "",
+                            "image_source": "assests/images/song-4.jpg",
+                            "quality": {
+                                "low": "assests/songs/song-4.mp3",
+                                "medium": "",
+                                "high": ""
+                            },
+                            "release_date": "date"
+                        },
+                        {
+                            "id": 4,
+                            "playlist_type": false,
+                            "playlist": null,
+                            "song_name": "ladki kar gayi chull",
+                            "album_name": "kapoor and sons",
+                            "singers": "",
+                            "image_source": "assests/images/song-5.jpg",
+                            "quality": {
+                                "low": "assests/songs/song-5.mp3",
+                                "medium": "",
+                                "high": ""
+                            },
+                            "release_date": "date"
+                        }
+                    ],
+                    "song_name": "new hot 20 hindi songs",
+                    "album_name": "",
+                    "singers": "",
+                    "image_source": "assests/images/song-3.jpg",
+                    "quality": {
+                        "low": "",
+                        "medium": "",
+                        "high": ""
+                    },
+                    "release_date": "date"
+                },
+                {
+                    "id": 3,
+                    "playlist_type": true,
+                    "playlist": [
+                        {
+                            "id": 0,
+                            "playlist_type": false,
+                            "playlist": null,
+                            "song_name": "paro",
+                            "album_name": "pyaar ka panchnaman 2",
+                            "singers": "",
+                            "image_source": "assests/images/song-1)jpg",
+                            "quality": {
+                                "low": "assests/songs/song-1.mp3",
+                                "medium": "",
+                                "high": ""
+                            },
+                            "release_date": "date"
+                        },
+                        {
+                            "id": 1,
+                            "playlist_type": false,
+                            "playlist": null,
+                            "song_name": "jiyo re bahubal",
+                            "album_name": "bahubali 2",
+                            "singers": "",
+                            "image_source": "assests/images/song-2.jpg",
+                            "quality": {
+                                "low": "assests/songs/song-2.mp3",
+                                "medium": "",
+                                "high": ""
+                            },
+                            "release_date": "date"
+                        },
+                        {
+                            "id": 2,
+                            "playlist_type": false,
+                            "playlist": null,
+                            "song_name": "hamsafar",
+                            "album_name": "badrinath ki dhulania",
+                            "singers": "",
+                            "image_source": "assests/images/song-3.jpg",
+                            "quality": {
+                                "low": "assests/songs/song-3.mp3",
+                                "medium": "",
+                                "high": ""
+                            },
+                            "release_date": "date"
+                        },
+                        {
+                            "id": 3,
+                            "playlist_type": false,
+                            "playlist": null,
+                            "song_name": "ik vaari aa",
+                            "album_name": "raabta",
+                            "singers": "",
+                            "image_source": "assests/images/song-4.jpg",
+                            "quality": {
+                                "low": "assests/songs/song-4.mp3",
+                                "medium": "",
+                                "high": ""
+                            },
+                            "release_date": "date"
+                        },
+                        {
+                            "id": 4,
+                            "playlist_type": false,
+                            "playlist": null,
+                            "song_name": "ladki kar gayi chull",
+                            "album_name": "kapoor and sons",
+                            "singers": "",
+                            "image_source": "assests/images/song-5.jpg",
+                            "quality": {
+                                "low": "assests/songs/song-5.mp3",
+                                "medium": "",
+                                "high": ""
+                            },
+                            "release_date": "date"
+                        }
+                    ],
+                    "song_name": "bollywood love 2017",
+                    "album_name": "",
+                    "singers": "",
+                    "image_source": "assests/images/song-4.jpg",
+                    "quality": {
+                        "low": "",
+                        "medium": "",
+                        "high": ""
+                    },
+                    "release_date": "date"
+                },
+                {
+                    "id": 4,
+                    "playlist_type": true,
+                    "playlist": [
+                        {
+                            "id": 0,
+                            "playlist_type": false,
+                            "playlist": null,
+                            "song_name": "paro",
+                            "album_name": "pyaar ka panchnaman 2",
+                            "singers": "",
+                            "image_source": "assests/images/song-1)jpg",
+                            "quality": {
+                                "low": "assests/songs/song-1.mp3",
+                                "medium": "",
+                                "high": ""
+                            },
+                            "release_date": "date"
+                        },
+                        {
+                            "id": 1,
+                            "playlist_type": false,
+                            "playlist": null,
+                            "song_name": "jiyo re bahubal",
+                            "album_name": "bahubali 2",
+                            "singers": "",
+                            "image_source": "assests/images/song-2.jpg",
+                            "quality": {
+                                "low": "assests/songs/song-2.mp3",
+                                "medium": "",
+                                "high": ""
+                            },
+                            "release_date": "date"
+                        },
+                        {
+                            "id": 2,
+                            "playlist_type": false,
+                            "playlist": null,
+                            "song_name": "hamsafar",
+                            "album_name": "badrinath ki dhulania",
+                            "singers": "",
+                            "image_source": "assests/images/song-3.jpg",
+                            "quality": {
+                                "low": "assests/songs/song-3.mp3",
+                                "medium": "",
+                                "high": ""
+                            },
+                            "release_date": "date"
+                        },
+                        {
+                            "id": 3,
+                            "playlist_type": false,
+                            "playlist": null,
+                            "song_name": "ik vaari aa",
+                            "album_name": "raabta",
+                            "singers": "",
+                            "image_source": "assests/images/song-4.jpg",
+                            "quality": {
+                                "low": "assests/songs/song-4.mp3",
+                                "medium": "",
+                                "high": ""
+                            },
+                            "release_date": "date"
+                        },
+                        {
+                            "id": 4,
+                            "playlist_type": false,
+                            "playlist": null,
+                            "song_name": "ladki kar gayi chull",
+                            "album_name": "kapoor and sons",
+                            "singers": "",
+                            "image_source": "assests/images/song-5.jpg",
+                            "quality": {
+                                "low": "assests/songs/song-5.mp3",
+                                "medium": "",
+                                "high": ""
+                            },
+                            "release_date": "date"
+                        }
+                    ],
+                    "song_name": "new 20 international songs",
+                    "album_name": "",
+                    "singers": "",
+                    "image_source": "assests/images/song-5.jpg",
+                    "quality": {
+                        "low": "",
+                        "medium": "",
+                        "high": ""
+                    },
+                    "release_date": "date"
+                }
+            ]
+        },
+        {
+            "songsbox": "latest albums",
+            "songscards": [
+                {
+                    "id": 0,
+                    "playlist_type": false,
+                    "playlist": null,
+                    "song_name": "paro",
+                    "album_name": "pyaar ka panchnaman 2",
+                    "singers": "",
+                    "image_source": "assests/images/song-1.jpg",
+                    "quality": {
+                        "low": "assests/songs/song-1.mp3",
+                        "medium": "",
+                        "high": ""
+                    },
+                    "release_date": "date"
+                },
+                {
+                    "id": 1,
+                    "playlist_type": false,
+                    "playlist": null,
+                    "song_name": "jiyo re bahubal",
+                    "album_name": "bahubali 2",
+                    "singers": "",
+                    "image_source": "assests/images/song-2.jpg",
+                    "quality": {
+                        "low": "assests/songs/song-2.mp3",
+                        "medium": "",
+                        "high": ""
+                    },
+                    "release_date": "date"
+                },
+                {
+                    "id": 2,
+                    "playlist_type": false,
+                    "playlist": null,
+                    "song_name": "hamsafar",
+                    "album_name": "badrinath ki dhulania",
+                    "singers": "",
+                    "image_source": "assests/images/song-3.jpg",
+                    "quality": {
+                        "low": "assests/songs/song-3.mp3",
+                        "medium": "",
+                        "high": ""
+                    },
+                    "release_date": "date"
+                },
+                {
+                    "id": 3,
+                    "playlist_type": false,
+                    "playlist": null,
+                    "song_name": "ik vaari aa",
+                    "album_name": "raabta",
+                    "singers": "",
+                    "image_source": "assests/images/song-4.jpg",
+                    "quality": {
+                        "low": "assests/songs/song-4.mp3",
+                        "medium": "",
+                        "high": ""
+                    },
+                    "release_date": "date"
+                },
+                {
+                    "id": 4,
+                    "playlist_type": false,
+                    "playlist": null,
+                    "song_name": "ladki kar gayi chull",
+                    "album_name": "kapoor and sons",
+                    "singers": "",
+                    "image_source": "assests/images/song-5.jpg",
+                    "quality": {
+                        "low": "assests/songs/song-5.mp3",
+                        "medium": "",
+                        "high": ""
+                    },
+                    "release_date": "date"
+                }
+            ]
+        },
+        {
+            "songsbox": "new  releases",
+            "songscards": [
+                {
+                    "id": 0,
+                    "playlist_type": false,
+                    "playlist": null,
+                    "song_name": "paro",
+                    "album_name": "pyaar ka panchnaman 2",
+                    "singers": "",
+                    "image_source": "assests/images/song-1.jpg",
+                    "quality": {
+                        "low": "assests/songs/song-1.mp3",
+                        "medium": "",
+                        "high": ""
+                    },
+                    "release_date": "date"
+                },
+                {
+                    "id": 1,
+                    "playlist_type": false,
+                    "playlist": null,
+                    "song_name": "jiyo re bahubal",
+                    "album_name": "bahubali 2",
+                    "singers": "",
+                    "image_source": "assests/images/song-2.jpg",
+                    "quality": {
+                        "low": "assests/songs/song-2.mp3",
+                        "medium": "",
+                        "high": ""
+                    },
+                    "release_date": "date"
+                },
+                {
+                    "id": 2,
+                    "playlist_type": false,
+                    "playlist": null,
+                    "song_name": "hamsafar",
+                    "album_name": "badrinath ki dhulania",
+                    "singers": "",
+                    "image_source": "assests/images/song-3.jpg",
+                    "quality": {
+                        "low": "assests/songs/song-3.mp3",
+                        "medium": "",
+                        "high": ""
+                    },
+                    "release_date": "date"
+                },
+                {
+                    "id": 3,
+                    "playlist_type": false,
+                    "playlist": null,
+                    "song_name": "ik vaari aa",
+                    "album_name": "raabta",
+                    "singers": "",
+                    "image_source": "assests/images/song-4.jpg",
+                    "quality": {
+                        "low": "assests/songs/song-4.mp3",
+                        "medium": "",
+                        "high": ""
+                    },
+                    "release_date": "date"
+                },
+                {
+                    "id": 4,
+                    "playlist_type": false,
+                    "playlist": null,
+                    "song_name": "ladki kar gayi chull",
+                    "album_name": "kapoor and sons",
+                    "singers": "",
+                    "image_source": "assests/images/song-5.jpg",
+                    "quality": {
+                        "low": "assests/songs/song-5.mp3",
+                        "medium": "",
+                        "high": ""
+                    },
+                    "release_date": "date"
+                }
+            ]
+        },
+        {
+            "songsbox": "top trending",
+            "songscards": [
+                {
+                    "id": 0,
+                    "playlist_type": false,
+                    "playlist": null,
+                    "song_name": "paro",
+                    "album_name": "pyaar ka panchnaman 2",
+                    "singers": "",
+                    "image_source": "assests/images/song-1.jpg",
+                    "quality": {
+                        "low": "assests/songs/song-1.mp3",
+                        "medium": "",
+                        "high": ""
+                    },
+                    "release_date": "date"
+                },
+                {
+                    "id": 1,
+                    "playlist_type": false,
+                    "playlist": null,
+                    "song_name": "jiyo re bahubal",
+                    "album_name": "bahubali 2",
+                    "singers": "",
+                    "image_source": "assests/images/song-2.jpg",
+                    "quality": {
+                        "low": "assests/songs/song-2.mp3",
+                        "medium": "",
+                        "high": ""
+                    },
+                    "release_date": "date"
+                },
+                {
+                    "id": 2,
+                    "playlist_type": false,
+                    "playlist": null,
+                    "song_name": "hamsafar",
+                    "album_name": "badrinath ki dhulania",
+                    "singers": "",
+                    "image_source": "assests/images/song-3.jpg",
+                    "quality": {
+                        "low": "assests/songs/song-3.mp3",
+                        "medium": "",
+                        "high": ""
+                    },
+                    "release_date": "date"
+                },
+                {
+                    "id": 3,
+                    "playlist_type": false,
+                    "playlist": null,
+                    "song_name": "ik vaari aa",
+                    "album_name": "raabta",
+                    "singers": "",
+                    "image_source": "assests/images/song-4.jpg",
+                    "quality": {
+                        "low": "assests/songs/song-4.mp3",
+                        "medium": "",
+                        "high": ""
+                    },
+                    "release_date": "date"
+                },
+                {
+                    "id": 4,
+                    "playlist_type": false,
+                    "playlist": null,
+                    "song_name": "ladki kar gayi chull",
+                    "album_name": "kapoor and sons",
+                    "singers": "",
+                    "image_source": "assests/images/song-5.jpg",
+                    "quality": {
+                        "low": "assests/songs/song-5.mp3",
+                        "medium": "",
+                        "high": ""
+                    },
+                    "release_date": "date"
+                }
+            ]
+        }
+    ]
+}

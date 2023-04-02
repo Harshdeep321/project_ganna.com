@@ -1,0 +1,266 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    /* background-color: #FFFFFF; */
+    font-family: 'proxima-nova' , 'Arial';
+
+}
+.container{
+    width: 100%;
+    max-width: 1400px;
+    margin: 0 auto;
+}
+.flex-row{
+    display: flex;
+    flex-direction: row;
+}
+.overlay{
+    position: absolute;
+    visibility: hidden;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    text-align: center;
+    /* z-index: 1; */
+    background-color: rgba(0,0,0,.3);
+    cursor: pointer;
+    background-image: url(https://a10.gaanacdn.com/gn_img/images/play_1621599900.png);
+    background-repeat: no-repeat;
+    background-position: 50%;
+    background-size: calc(50% + 1px) 50%;
+}
+
+header{
+    background-color:#F5F5F5;
+    /* padding: 15px 8px; */
+    position: sticky;
+    z-index: 200;
+    top: 0px;
+}
+
+.header-cont{
+    display: flex;
+    background-color: #F5F5F5;
+    color: black;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 0;
+}
+
+.search-input{
+    display: inline-flex;
+    align-items: center; 
+    height: 30px;
+    border-radius: 30px;
+    padding: 0 10px;
+    flex: 1;
+    cursor: text;
+    color: #8e8e93;
+    font-size: 12px;
+    background-color: white;
+    border: 1px solid #8e8e93;
+    margin: 5px 300px 5px 5px;
+}
+
+.search-input input{
+    width: 300px;
+    background-color: transparent;
+    border: none;
+    height: 38px;
+    outline: none;
+    
+}
+
+.cursor{
+    cursor: pointer;
+}
+
+.header-btn{
+    background-color:#F5F5F5;
+    color: #EA5457;
+    border-radius: 20px;
+    font-size: 12px;
+    border: 1px solid #EA5457;
+    line-height: 10px;
+    padding: 9px 8px 7px;
+    margin: 0px 20px 0px 0px;
+}
+
+.logo-svg{
+    background-color: #F5F5F5;
+    margin: 10px 10px 0px 20px;
+}
+
+.bg-color{
+    background-color: #F5F5F5;
+    margin: 0px 5px 0px 0px;
+}
+
+.navigation-menu{
+    position: sticky;
+    top: 60px;
+    min-height: 60px;
+    z-index: 200;
+    background-color: white;
+}
+
+.nav-cont{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 20px 0;
+}
+
+.nav-cont a{
+    color: black;
+    font-size: 16px;
+    text-decoration: none;
+    margin-right: 20px;
+    text-transform: capitalize;
+}
+
+
+.two-col-layout{
+    display: flex;
+    flex-direction: row;
+    height: 100%;
+}
+.music-lib{
+    flex: 7;
+    max-width: calc(100%-90px);
+    padding: 0 45px;
+    margin: 0 auto 100px;
+    max-width: 70%;
+}
+.ad-cont{
+    flex: 2;
+    max-width: 30%;
+    background-color: #FCFCFC;
+}
+.songs-section{
+    margin-bottom: 15px;
+}
+.section-heading{
+    margin-bottom: 20px;
+    font-size: 24px;
+    color: rgba(0,0,0,.9);
+    text-transform: capitalize;
+}
+.songs-cont{
+    display: flex;
+    flex-direction: row;
+    overflow: hidden;
+}
+.songs-card{
+    display: flex;
+    flex-direction: column;
+    margin-right: 45px;
+}
+
+.songs-card:hover .overlay{
+    visibility: visible;
+}
+.img-cont{
+    width: 160px;
+    height: 160px;
+    border-radius: 6px;
+    overflow: hidden;
+    position: relative;
+}
+.song-name{
+    display: flex;
+    justify-content: center;
+    margin: 6px;
+}
+
+.img-cont:hover{
+    filter: brightness(80%);
+    cursor: pointer;
+}
+
+.nav-cont a:hover{
+    overflow: hidden;
+     text-decoration: underline black;
+}
+
+
+/* music player */
+.music-player{
+    visibility:hidden;
+    position: fixed;
+    display: flex;
+    box-sizing: border-box;
+    flex-direction: row;
+    z-index: 100;
+    bottom: 1px;
+    width: 100%;
+    left: 0;
+    background-color: #222428;
+    box-shadow: 0 0 4px 0 rgb(0 0 0 / 50%);
+    padding: 15px 25px;
+    justify-content: space-between;
+}
+
+.current-music-playing{
+    align-items: center;
+    flex: 2;
+}
+.song-cover{
+    border-radius: 4px;
+    overflow: hidden;
+    margin-right: 10px;
+}
+.t_over{
+    font-size: 15px;
+    color: white;
+}
+.t_over2{
+    margin-top: 4px;
+    font-size: 12px;
+    color: rgba(255,255,255,0.7);
+}
+.song-info{
+    display: flex;
+    flex-direction: column;
+    max-width: 290px;
+    white-space: nowrap;
+}
+
+.music-controls{
+    align-items: center;
+    flex: 3;
+    padding-left:90px ;
+}
+.time{
+    border-radius: 20px;
+    border: 1px solid rgba(255, 255, 255, .8);
+    color: rgba(255, 255, 255, .8);
+    font-size: 12px;
+    padding: 6px 16px;
+}
+
+.music-controls button, .music-quality button{
+    margin: 0 12px;
+    border: none;
+    outline: none;
+    background-color: transparent;
+}
+
+.music-controls .svg_color, .music-quality .svg_color{
+    fill: white;
+}
+
+.play{
+    background-color: red !important;
+    border-radius: 20px;
+    height: 32px;
+    width: 32px;
+}
+.music-quality{
+    flex: 1;
+    justify-content: flex-end;
+}
